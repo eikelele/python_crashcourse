@@ -1,0 +1,4 @@
+1. Interactive Dashboards
+2. Web scrapping app
+3. Data Analysis Scenarios for finding new insights into companys data
+4. Data pipelines into SQL / NoSQL databases
